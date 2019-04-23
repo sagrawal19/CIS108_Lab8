@@ -1,0 +1,25 @@
+﻿  MusicDB.cpp
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(261): warning C4018: '<': signed/unsigned mismatch
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(280): warning C4129: 's': unrecognized character escape sequence
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(284): error C2065: 'str': undeclared identifier
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(285): error C2144: syntax error: 'char' should be preceded by ';'
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(287): error C2065: 'Copy': undeclared identifier
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(287): error C2146: syntax error: missing ';' before identifier 'the'
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(287): error C2065: 'the': undeclared identifier
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(287): error C2146: syntax error: missing ';' before identifier 'content'
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(287): error C2065: 'content': undeclared identifier
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(287): error C2146: syntax error: missing ';' before identifier 'of'
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(287): error C2065: 'of': undeclared identifier
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(287): error C2146: syntax error: missing ';' before identifier 'String'
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(287): error C2065: 'String': undeclared identifier
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(287): error C2146: syntax error: missing ';' before identifier 'to'
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(287): error C2065: 'to': undeclared identifier
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(287): error C2146: syntax error: missing ';' before identifier 'character'
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(287): error C2065: 'character': undeclared identifier
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(288): error C2146: syntax error: missing ';' before identifier 'array'
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(288): error C2079: 'strcpy_s' uses undefined class 'std::array'
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(288): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(288): note: The initializer contains too many elements
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(289): warning C4138: '*/' found outside of comment
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(289): error C2059: syntax error: '/'
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(299): error C2065: 'myTag': undeclared identifier
